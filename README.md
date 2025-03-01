@@ -34,6 +34,24 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/Tharushzzz/movie-adviser.git
 cd movie-adviser
+```
+
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Set Up Environment Variables
+Create a .env file in the root directory and add the following:
+```bash
+REACT_APP_API_KEY_PARAM=your_api_key_here
+```
+
+### 4️⃣ Start the Development Server
+```bash
+npm start
+```
+
 
 
 
