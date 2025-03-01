@@ -1,0 +1,23 @@
+.title{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.list:hover{
+    scroll-behavior: smooth;
+}
+
+.list{
+    display: flex;
+    /* width: 100vw - 25px; */
+    padding-bottom: 10px;
+    overflow: overlay;
+    
+}
+
+.movie_list_item{
+    margin-right: 20px;
+
+}

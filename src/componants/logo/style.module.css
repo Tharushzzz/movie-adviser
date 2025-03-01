@@ -1,0 +1,23 @@
+.containar{
+    display: flex;
+}
+
+.img{
+    height: 65px;
+    width: 60px;
+    margin-top: 3px;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: 400;
+    padding-top: 5px;
+    padding-left: 3px;
+
+}
+
+.subtitle{
+    margin-left: 3px;
+    color: #ffffff7d;
+    white-space: nowrap;
+}
